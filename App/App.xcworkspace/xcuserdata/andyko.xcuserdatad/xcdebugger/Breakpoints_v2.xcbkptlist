@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "52A73DFB-307F-4EF8-9947-B9A977AAE638"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F078F6A3-A3E7-4151-829A-96927DF45596"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../node_modules/@capacitor/ios/Capacitor/Capacitor/CAPApplicationDelegateProxy.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "ApplicationDelegateProxy"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F078F6A3-A3E7-4151-829A-96927DF45596 - 18dc9660f5906fd9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Capacitor.ApplicationDelegateProxy.lastURL.getter : Swift.Optional&lt;Foundation.URL&gt;"
+                  moduleName = "Capacitor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andyko/Documents/mbv_app/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPApplicationDelegateProxy.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "F078F6A3-A3E7-4151-829A-96927DF45596 - 5ba69d6a24ca17d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Capacitor.ApplicationDelegateProxy.lastURL.setter : Swift.Optional&lt;Foundation.URL&gt;"
+                  moduleName = "Capacitor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andyko/Documents/mbv_app/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPApplicationDelegateProxy.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "F078F6A3-A3E7-4151-829A-96927DF45596 - 4032ee1736f1c224"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Capacitor.ApplicationDelegateProxy.lastURL.modify : Swift.Optional&lt;Foundation.URL&gt;"
+                  moduleName = "Capacitor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andyko/Documents/mbv_app/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPApplicationDelegateProxy.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F078F6A3-A3E7-4151-829A-96927DF45596 - 243d535e229189d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Capacitor.ApplicationDelegateProxy.lastURL.modify : Swift.Optional&lt;Foundation.URL&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Capacitor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andyko/Documents/mbv_app/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPApplicationDelegateProxy.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "F078F6A3-A3E7-4151-829A-96927DF45596 - c249ca170123d1cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Capacitor.ApplicationDelegateProxy.init() -&gt; Capacitor.ApplicationDelegateProxy"
+                  moduleName = "Capacitor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andyko/Documents/mbv_app/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPApplicationDelegateProxy.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "F078F6A3-A3E7-4151-829A-96927DF45596 - 5ba69d6a24ca17d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Capacitor.ApplicationDelegateProxy.lastURL.setter : Swift.Optional&lt;Foundation.URL&gt;"
+                  moduleName = "Capacitor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andyko/Documents/mbv_app/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPApplicationDelegateProxy.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
