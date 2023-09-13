@@ -1,1 +1,0 @@
-import{a1 as e,o as a,c as o,w as t,V as c,h as r}from"./index-a1372ae8.js";const s={};function n(_,f){return a(),o(c,null,{default:t(()=>[r(" Oooops, 404 ")]),_:1})}const l=e(s,[["render",n]]);export{l as default};
